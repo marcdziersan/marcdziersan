@@ -1,16 +1,21 @@
-## Hi there 👋
+# Marcus Dziersan
 
-<!--
-**marcdziersan/marcdziersan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fachinformatiker Anwendungsentwicklung in Umschulung.
+Ich entwickle schlanke Webanwendungen, Lernprojekte und praktische Tools ohne unnötigen Framework-Overhead.
 
-Here are some ideas to get you started:
+## Schwerpunkt
+- PHP / MySQL / MariaDB
+- HTML5 / CSS3 / JavaScript / AJAX
+- Java / Swing / JavaFX
+- Arduino / ESP8266 / ESP32
+- JSON / kleine APIs / Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hauptprojekte
+- PolarisNova – selbst hostbare Projekt- und Aufgabenverwaltung
+- JSON Harbor – Lernspiel für JSON-Validierung
+- DOS Banana – Java Swing Retro-Jump'n'Run
+- ICE Notfall QR System – privates Demo-System für Notfalldaten
+- YHK Print Tool – Windows-Drucktool für Mini-Thermodrucker
+
+## Haltung
+Ich baue Software bevorzugt nachvollziehbar, schlank und betreibbar auf normalem Webhosting.
