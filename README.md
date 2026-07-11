@@ -22,6 +22,14 @@ Ich entwickle bevorzugt Anwendungen, die ohne unnötigen technischen Ballast aus
 
 Selbst hostbare Projekt-, Aufgaben-, Kunden-, Zeit-, Rechnungs-, EÜR-, Nachrichten- und Ticketverwaltung auf Basis von PHP, MySQL/MariaDB und Vanilla JavaScript.
 
+### MD-CyberFun XP
+
+Browserbasierte Desktop- und Web-PDA-Umgebung im Stil klassischer Betriebssystemoberflächen. Das Projekt kombiniert einen virtuellen Desktop, einen Explorer mit Dateiverwaltung, modular aufgebaute Anwendungen und responsive Bedienkonzepte für Desktop-, Tablet- und Mobilansichten.
+
+Zu den integrierten Werkzeugen gehören unter anderem Text- und Markdown-Verarbeitung, Bild- und Dateivorschauen, eine Farbpipette, Screenshot-Funktionen sowie ein kategorisiertes Anwendungsmenü. Ein besonderer Schwerpunkt liegt auf der technischen Umsetzung typischer Desktop-Funktionen innerhalb einer reinen Webanwendung.
+
+Das Projekt wird derzeit privat auf GitHub weiterentwickelt.
+
 ### JSON Harbor
 
 Browserbasiertes Lernspiel zur JSON-Validierung mit eigenen Prüfregeln, Missionen, Fortschrittsspeicherung und bewusst ohne externe Bibliotheken.
@@ -55,6 +63,7 @@ Meine Projekte entstehen oft aus konkreten Alltagsproblemen, Lernzielen oder tec
 ## Technische Haltung
 
 Software muss nicht immer groß, komplex oder cloudabhängig sein.
+
 Ich bevorzuge Lösungen, die:
 
 * verständlich aufgebaut sind,
@@ -67,4 +76,4 @@ Ich bevorzuge Lösungen, die:
 
 ## Aktueller Fokus
 
-Ich vertiefe aktuell meine Kenntnisse in PHP, MySQL/MariaDB, JavaScript, Java und objektorientierter Anwendungsentwicklung. Parallel baue ich eigene Projekte weiter aus, dokumentiere Lernfortschritte und nutze GitHub als Portfolio für praktische Entwicklungserfahrung.
+Ich vertiefe aktuell meine Kenntnisse in PHP, MySQL/MariaDB, JavaScript, Java und objektorientierter Anwendungsentwicklung. Parallel baue ich eigene Projekte weiter aus, dokumentiere Lernfortschritte und nutze GitHub als Portfolio für praktische Entwicklungserfahrung. Neben öffentlich einsehbaren Repositories entwickle ich auch private Projekte, bei denen Architektur, Funktionsumfang und technische Dokumentation dennoch Bestandteil meines Portfolios sind.
