@@ -4,8 +4,6 @@
 
 Ich entwickle bevorzugt Anwendungen, die ohne unnötigen technischen Ballast auskommen: klar strukturiert, verständlich dokumentiert, auf normalem Webhosting betreibbar und nah an echten Anwendungsfällen.
 
----
-
 ## Schwerpunkt
 
 * **Backend & Webentwicklung:** PHP, MySQL, MariaDB, JSON, REST-nahe APIs
@@ -13,8 +11,6 @@ Ich entwickle bevorzugt Anwendungen, die ohne unnötigen technischen Ballast aus
 * **Java:** Konsolenanwendungen, Swing, JavaFX, Lern- und Toolprojekte
 * **Embedded & Hardware:** Arduino, ESP8266, ESP32, OLED, Sensorik, OTA-Experimente
 * **Arbeitsweise:** pragmatisch, dokumentationsstark, lösungsorientiert, ohne Framework-Overhead dort, wo er keinen Mehrwert bringt
-
----
 
 ## Ausgewählte Projekte
 
@@ -29,10 +25,6 @@ Browserbasierte Desktop- und Web-PDA-Umgebung im Stil klassischer Betriebssystem
 Zu den integrierten Werkzeugen gehören unter anderem Text- und Markdown-Verarbeitung, Bild- und Dateivorschauen, eine Farbpipette, Screenshot-Funktionen sowie ein kategorisiertes Anwendungsmenü. Ein besonderer Schwerpunkt liegt auf der technischen Umsetzung typischer Desktop-Funktionen innerhalb einer reinen Webanwendung.
 
 Das Projekt wird derzeit privat auf GitHub weiterentwickelt.
-
-### JSON Harbor
-
-Browserbasiertes Lernspiel zur JSON-Validierung mit eigenen Prüfregeln, Missionen, Fortschrittsspeicherung und bewusst ohne externe Bibliotheken.
 
 ### DOS Banana
 
@@ -50,15 +42,11 @@ Leichtgewichtiges Windows-Tool zum direkten Drucken von Texten und QR-Codes auf 
 
 ESP8266-Testprojekt mit Weboberfläche, Konfiguration, LittleFS, JSON-Statusausgabe und OTA-Firmware-Upload.
 
----
-
 ## Was mich auszeichnet
 
 Ich arbeite mich gerne tief in praktische Problemstellungen ein und baue Lösungen, die nachvollziehbar bleiben. Mir ist wichtig, nicht nur fertige Frameworks zu bedienen, sondern die technischen Grundlagen dahinter zu verstehen: Datenflüsse, Dateistrukturen, Sessions, Datenbanken, API-Antworten, UI-Verhalten, Hardware-Pins oder Speichergrenzen.
 
 Meine Projekte entstehen oft aus konkreten Alltagsproblemen, Lernzielen oder technischen Experimenten. Dadurch verbinde ich Softwareentwicklung mit praktischer Umsetzung, Dokumentation und kontinuierlicher Verbesserung.
-
----
 
 ## Technische Haltung
 
@@ -71,8 +59,6 @@ Ich bevorzuge Lösungen, die:
 * sauber dokumentiert sind,
 * reale Probleme lösen,
 * und auch nach Monaten noch wartbar bleiben.
-
----
 
 ## Aktueller Fokus
 
